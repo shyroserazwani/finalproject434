@@ -3,3 +3,13 @@ numpy
 pylint
 pytest
 pytest-cov
+Click==7.0
+Flask==1.1.1
+itsdangerous==1.1.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+Werkzeug==1.0.0
+os
+tweepy
+google-cloud-language
+wordcloud
